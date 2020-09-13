@@ -4,17 +4,19 @@
 
 
 ### Hi there 👋
-<!--
-**YusufBaig7/YusufBaig7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am Yusuf. I am an AI and ML enthusiast. I like working on Computer Vision and NLP projects. I like leanrning new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ -🔭 I’m currently working on a Computer Vision in healthcare project
+ 
+ -🌱 I’m currently learning Fine tuning and optimization
+ 
+ -👯 I’m looking to collaborate on AI or ML projects
+ 
+ -🤔 I’m looking for help with Flask or Django
+ 
+ -💬 Ask me about Tensorflow, image-recognizers, ML models
+ 
+ -📫 How to reach me: You can email me at [my mail](mailto:baig.yusuf.cr7@gmail.com)
+ 
+ - ⚡ Fun fact:I love working under pressure
