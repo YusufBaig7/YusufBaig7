@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-I am Yusuf. I am an AI and ML enthusiast. I like working on Computer Vision and NLP projects. I like leanrning new things.
+I am Yusuf. I am an AI and ML enthusiast. I like working on Computer Vision and NLP projects. I like learning new things.
 
  -🔭 I’m currently working on a Computer Vision in healthcare project
  
