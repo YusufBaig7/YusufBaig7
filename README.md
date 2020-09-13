@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![](images/Webp.net-resizeimage.png)](www.linkedin.com/in/yusufbaig419174194)
+[![](images/Webp.net-resizeimage.png)](https://www.linkedin.com/in/yusufbaig419174194/)
 <!--
 **YusufBaig7/YusufBaig7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
