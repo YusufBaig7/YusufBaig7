@@ -1,6 +1,6 @@
 # Yusuf baig
 
-[![linkedin](https://github.com/YusufBaig7/YusufBaig7/blob/master/images/Webp.net-resizeimage.png)](https://www.linkedin.com/in/yusufbaig419174194/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![kaggle](https://github.com/YusufBaig7/YusufBaig7/blob/master/images/Webp.net-resizeimage (2).png)](https://www.kaggle.com/mirzayusuf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![linkedin](https://github.com/YusufBaig7/YusufBaig7/blob/master/images/Webp.net-resizeimage.png)](https://www.linkedin.com/in/yusufbaig419174194/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![kaggle](https://github.com/YusufBaig7/YusufBaig7/blob/master/images/Webp.net-resizeimage%20(2).png)](https://www.kaggle.com/mirzayusuf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
