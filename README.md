@@ -5,18 +5,12 @@
 
 ### Hi there 👋
 
-I am Yusuf. I am an AI and ML enthusiast. I like working on Computer Vision and NLP projects. Always up for learning or doing something new.
+I am Yusuf. I am an AI and ML enthusiast. I like working on NLP projects. Always up for learning or doing something new.
 
- -🔭 I’m currently working on a Computer Vision in healthcare project
- 
- -🌱 I’m currently learning Fine tuning and optimization
- 
- -👯 I’m looking to collaborate on AI or ML projects
- 
- -🤔 I’m looking for help with Flask or Django
- 
- -💬 Ask me about Tensorflow, image-recognizers, ML models
- 
+ -🔭 I’m currently working on an NLP in healthcare project
+ -🌱 I’m currently learning MLops and Federated Learning 
+ -🤔 I’m looking for help with OCR and FL
  -📫 How to reach me: You can email me at [my mail](mailto:baig.yusuf.cr7@gmail.com)
  
  - ⚡ Fun fact:I love working under pressure
+ - Pronouns: He/Him
