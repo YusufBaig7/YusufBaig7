@@ -7,7 +7,7 @@
 
 I am Yusuf. I am an AI and ML enthusiast. I like working on NLP projects. Always up for learning or doing something new.
 
- -🔭 I’m currently working on an NLP in healthcare project
+ -🔭 I’m currently working on an NLP in explainable AI
  
  -🌱 I’m currently learning MLops and Federated Learning 
  
