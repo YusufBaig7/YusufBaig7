@@ -5,15 +5,9 @@
 
 ### Hi there 👋
 
-I am Yusuf. I am an AI and ML enthusiast. I like working on NLP projects. Always up for learning or doing something new.
-
- -🔭 I’m currently working on an NLP in explainable AI
- 
+I am Yusuf. I am an AI and ML enthusiast. I like working on NLP projects.
+ -🔭 I’m currently working on an WSD in NLP
  -🌱 I’m currently learning MLops and Federated Learning 
- 
- -🤔 I’m looking for help with OCR and FL
- 
+ -🤔 I’m looking for help with OCR 
  -📫 How to reach me: You can email me at [my mail](mailto:baig.yusuf.cr7@gmail.com)
- 
- - ⚡ Fun fact:I love working under pressure
  - Pronouns: He/Him
