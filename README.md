@@ -7,7 +7,7 @@
 
 I am Yusuf. I am an AI and ML enthusiast. I like working on NLP projects.
 
- -🔭 I’m currently working on an WSD in NLP
+ -🔭 I’m currently working on WSD in NLP
 
 -🌱 I’m currently learning MLops and Federated Learning 
 
