@@ -5,7 +5,7 @@
 
 ### Hi there 
 
-I am Yusuf. I am an AI and ML enthusiast. I like working on NLP projects.
+I am Yusuf, an AI and ML enthusiast. I like working on NLP projects.
 
  -🔭 I’m currently working on Green AI in NLP
 
