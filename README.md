@@ -7,10 +7,10 @@
 
 I am Yusuf, an AI and ML enthusiast. I like working on NLP projects.
 
- -🔭 I’m currently working on Green AI in NLP
+ - I’m currently working in Legal AI in NLP
 
--🌱 I’m currently learning Legal AI and Reinforcement Learning
+-  I’m currently learning Legal AI and Continual LM
 
--📫 How to reach me: You can email me at [my mail](mailto:baig.yusuf.cr7@gmail.com)
+-  How to reach me: You can email me at [my mail](mailto:baig.yusuf.cr7@gmail.com)
 
 - Pronouns: He/Him
